@@ -67,7 +67,7 @@ const baseEstudiantes = [
         "titulo": "4. Aprendizaje autónomo",
         "puntaje": 12,
         "nivel": "BAJA ADAPTABILIDAD",
-        "retroalimentacion": "Tus resultados evidencian un adecuado desarrollo de habilidades de aprendizaje autónomo. Aun así, puedes acceder a los apoyos psicopedagógicos para continuar potenciando tus estrategias de aprendizaje y fortalecer tus procesos académicos."
+        "retroalimentacion": "Tus resultados evidencian un adecuado desarrollo de habilidades de aprendizaje autónomo. Aun así, puedes acceder a los apoyos psicopedagógicos para continuar potenciando tus estrategias de aprendizaje y fortalecer tus procesos académicos.  Para fortalecer estos aspectos, te invitamos a solicitar los servicios del programa Ean contigo https://universidadean.edu.co/estudiantes/ean-contigo"
       },
       {
         "titulo": "5. Riesgo psicosocial",
@@ -145,7 +145,7 @@ const baseEstudiantes = [
         "titulo": "4. Aprendizaje autónomo",
         "puntaje": 10,
         "nivel": "BAJA ADAPTABILIDAD",
-        "retroalimentacion": "Tus resultados evidencian un adecuado desarrollo de habilidades de aprendizaje autónomo. Aun así, puedes acceder a los apoyos psicopedagógicos para continuar potenciando tus estrategias de aprendizaje y fortalecer tus procesos académicos."
+        "retroalimentacion": "Tus resultados evidencian un adecuado desarrollo de habilidades de aprendizaje autónomo. Aun así, puedes acceder a los apoyos psicopedagógicos para continuar potenciando tus estrategias de aprendizaje y fortalecer tus procesos académicos.  Para fortalecer estos aspectos, te invitamos a solicitar los servicios del programa Ean contigo https://universidadean.edu.co/estudiantes/ean-contigo"
       },
       {
         "titulo": "5. Riesgo psicosocial",
@@ -223,7 +223,7 @@ const baseEstudiantes = [
         "titulo": "4. Aprendizaje autónomo",
         "puntaje": 12,
         "nivel": "BAJA ADAPTABILIDAD",
-        "retroalimentacion": "Tus resultados evidencian un adecuado desarrollo de habilidades de aprendizaje autónomo. Aun así, puedes acceder a los apoyos psicopedagógicos para continuar potenciando tus estrategias de aprendizaje y fortalecer tus procesos académicos."
+        "retroalimentacion": "Tus resultados evidencian un adecuado desarrollo de habilidades de aprendizaje autónomo. Aun así, puedes acceder a los apoyos psicopedagógicos para continuar potenciando tus estrategias de aprendizaje y fortalecer tus procesos académicos.  Para fortalecer estos aspectos, te invitamos a solicitar los servicios del programa Ean contigo https://universidadean.edu.co/estudiantes/ean-contigo"
       },
       {
         "titulo": "5. Riesgo psicosocial",
